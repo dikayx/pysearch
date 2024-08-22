@@ -12,7 +12,7 @@ PySearch is a simple Python script that searches for a string in a file or a dir
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/dan-koller/pysearch
+    git clone https://github.com/dikayx/pysearch
     ```
 
 2. Create a new virtual environment & activate it
